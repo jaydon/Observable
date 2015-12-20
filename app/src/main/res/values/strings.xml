@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Observable</string>
+    <string name="action_settings">Settings</string>
+    <string name="common_net_not_available">网络不可用，请检查网络连接！</string>
+</resources>
